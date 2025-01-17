@@ -1,2 +1,2 @@
-# gas_station_react
+# Gas Station Project
 MERN Stack Gas Station Project
